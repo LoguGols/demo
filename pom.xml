@@ -42,14 +42,6 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-	
-	<distributionManagement>
-       <repository>
-         <id>internal.repo</id>
-         <name>Internal repo</name>
-         <url>file://C:\Jenkins_Deployment</url>
-       </repository>
-   </distributionManagement>
 
 	<build>
 		<plugins>
