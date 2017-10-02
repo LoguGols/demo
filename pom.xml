@@ -47,7 +47,7 @@
        <repository>
          <id>internal.repo</id>
          <name>Internal repo</name>
-         <url>C:\Jenkins_Deployment</url>
+         <url>file://C:\Jenkins_Deployment</url>
        </repository>
    </distributionManagement>
 
